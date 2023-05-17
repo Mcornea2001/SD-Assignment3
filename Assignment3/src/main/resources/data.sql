@@ -1,0 +1,1 @@
+INSERT INTO car(id, brand, model, km) VALUES (250,'bwm', '3 series', 75000), (251,'audi', 'a3', 200000)
